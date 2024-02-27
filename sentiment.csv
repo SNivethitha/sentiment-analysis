@@ -1,0 +1,421 @@
+Text,Sentiment
+I love this product!,Positive
+"Terrible experience, never buying again.",Negative
+The weather today is okay.,Neutral
+This movie is fantastic!,Positive
+Disappointed with the service.,Negative
+Enjoying my vacation so far.,Positive
+The food was mediocre at best.,Neutral
+This book is a waste of time.,Negative
+Can't complain about the quality.,Positive
+Worst customer support ever!,Negative
+"It's an average phone, nothing special.",Neutral
+The concert was amazing!,Positive
+Not impressed by the presentation.,Negative
+The hotel was clean and comfortable.,Positive
+Feeling indifferent about the new update.,Neutral
+This coffee tastes awful.,Negative
+Loving the new design of the app.,Positive
+The traffic is causing frustration.,Negative
+Mixed feelings about the new policy.,Neutral
+The staff was rude and unhelpful.,Negative
+I love this product!,Positive
+"Terrible experience, never buying again.",Negative
+The weather today is okay.,Neutral
+This movie is fantastic!,Positive
+Disappointed with the service.,Negative
+Enjoying my vacation so far.,Positive
+The food was mediocre at best.,Neutral
+This book is a waste of time.,Negative
+Can't complain about the quality.,Positive
+Worst customer support ever!,Negative
+"It's an average phone, nothing special.",Neutral
+The concert was amazing!,Positive
+Not impressed by the presentation.,Negative
+The hotel was clean and comfortable.,Positive
+Feeling indifferent about the new update.,Neutral
+This coffee tastes awful.,Negative
+Loving the new design of the app.,Positive
+The traffic is causing frustration.,Negative
+Mixed feelings about the new policy.,Neutral
+The staff was rude and unhelpful.,Negative
+Great workout session at the gym.,Positive
+Absolutely dreadful experience.,Negative
+The art exhibition was underwhelming.,Neutral
+This dessert is heavenly!,Positive
+Fed up with the constant delays.,Negative
+Impressed by the quality of the product.,Positive
+Unimpressed by the lack of options.,Negative
+The presentation was engaging and informative.,Positive
+Neutral opinion about the recent changes.,Neutral
+This restaurant serves delicious food.,Positive
+Unhappy with the purchase.,Negative
+Feeling neither good nor bad about it.,Neutral
+The performance was outstanding!,Positive
+The customer service exceeded my expectations.,Positive
+The software is filled with bugs.,Negative
+Not sure how I feel about this.,Neutral
+The view from the rooftop is breathtaking.,Positive
+Completely dissatisfied with the outcome.,Negative
+Neutral stance on the issue.,Neutral
+The product works as advertised.,Positive
+Frustrated by the lack of communication.,Negative
+It's a fairly decent product.,Neutral
+Ecstatic about the news!,Positive
+Annoyed by the constant interruptions.,Negative
+No strong feelings about this topic.,Neutral
+The customer support was helpful and friendly.,Positive
+This show is a disappointment.,Negative
+I'm content with the results.,Positive
+Overwhelmed by the workload.,Negative
+Neither impressed nor unimpressed.,Neutral
+Thrilled with my new purchase!,Positive
+Really unhappy with the outcome.,Negative
+The new feature is interesting.,Positive
+Feeling indifferent towards it.,Neutral
+The quality of the service is top-notch.,Positive
+Extremely frustrated with the situation.,Negative
+No particular opinion about it.,Neutral
+Impressed by the level of detail.,Positive
+Utterly disappointed with the service.,Negative
+"Not my favorite, but it's okay.",Neutral
+Absolutely thrilled with the results.,Positive
+This experience is terrible.,Negative
+It's neither good nor bad.,Neutral
+Delighted with the outcome.,Positive
+Really upset about the whole situation.,Negative
+Fairly satisfied with the purchase.,Positive
+Not pleased with the overall experience.,Negative
+A bit unsure about how I feel.,Neutral
+The quality of this product is impressive.,Positive
+Displeased with the lack of options.,Negative
+No strong emotions attached to it.,Neutral
+The performance exceeded expectations.,Positive
+Truly disappointed by the service.,Negative
+It's neither impressive nor unimpressive.,Neutral
+Really pleased with the outcome.,Positive
+The experience has been awful.,Negative
+Not particularly interested either way.,Neutral
+Thrilled by the new update.,Positive
+Completely dissatisfied with the service.,Negative
+Feeling neutral about this topic.,Neutral
+Impressed by the attention to detail.,Positive
+Frustrated with the lack of communication.,Negative
+"It's acceptable, but not great.",Neutral
+Overjoyed by the news!,Positive
+Annoyed by the constant issues.,Negative
+No strong opinions about it.,Neutral
+The support staff was incredibly helpful.,Positive
+This show falls short of expectations.,Negative
+Content with the outcome.,Positive
+The situation is extremely frustrating.,Negative
+Neither impressed nor disappointed.,Neutral
+Thrilled with my purchase!,Positive
+Really displeased with the results.,Negative
+The new feature is worth exploring.,Positive
+Neutral feelings towards it.,Neutral
+The service quality is exceptional.,Positive
+Truly frustrated with the situation.,Negative
+No particular emotional attachment.,Neutral
+The performance surpassed expectations.,Positive
+Utterly let down by the service.,Negative
+"Indifferent, neither good nor bad.",Neutral
+Delighted with the overall experience.,Positive
+Extremely upset about the outcome.,Negative
+Fairly content with the outcome.,Positive
+Not impressed by the service.,Negative
+Mixed feelings about the update.,Neutral
+The staff was helpful and attentive.,Positive
+This show is disappointing.,Negative
+Satisfied with the results.,Positive
+The experience has been terrible.,Negative
+Feeling ambivalent about this.,Neutral
+Excited about the new release.,Positive
+Extremely dissatisfied with the service.,Negative
+Neutral standpoint on this matter.,Neutral
+Impressed by the craftsmanship.,Positive
+Frustrated with the lack of progress.,Negative
+"The party was a blast, had an amazing time!",Positive
+"I regret purchasing this, total waste of money.",Negative
+Feeling quite indifferent about the matter.,Neutral
+This book is an absolute gem!,Positive
+The service left much to be desired.,Negative
+I'm loving every moment of my vacation!,Positive
+"The food was decent, not extraordinary.",Neutral
+"Not worth my time, the content was shallow.",Negative
+I'm pleased with the results so far.,Positive
+Customer service needs improvement.,Negative
+No strong opinions about this.,Neutral
+The concert fell short of expectations.,Negative
+This hotel stay was delightful!,Positive
+Feeling unsure about the recent changes.,Neutral
+The coffee here is terrible.,Negative
+Thrilled with the user-friendly design.,Positive
+"Traffic is making me late, feeling irritated.",Negative
+Neutral stance on the policy changes.,Neutral
+The staff was unhelpful and rude.,Negative
+"Great workout at the gym, feeling accomplished.",Positive
+An utterly terrible experience.,Negative
+The art exhibition was so-so.,Neutral
+This dessert is absolutely heavenly!,Positive
+Fed up with the constant delays.,Negative
+The product's quality is impressive.,Positive
+Disappointed by the lack of choices.,Negative
+The presentation was captivating.,Positive
+Have neutral feelings about recent updates.,Neutral
+This restaurant serves outstanding food.,Positive
+Not satisfied with the purchase.,Negative
+I have mixed feelings about it.,Neutral
+The performance exceeded my expectations.,Positive
+The support team went above and beyond.,Positive
+The software has numerous bugs.,Negative
+"Feeling indifferent, can't decide.",Neutral
+The view from the rooftop is breathtaking.,Positive
+The results are far from what I hoped for.,Negative
+Sitting on the fence regarding this.,Neutral
+Impressed by the product's effectiveness.,Positive
+The customer support was unhelpful.,Negative
+Neither here nor there about it.,Neutral
+The performance surpassed my expectations.,Positive
+The service was a letdown.,Negative
+Not particularly thrilled or disappointed.,Neutral
+Thrilled with my new purchase!,Positive
+Really disappointed with the outcome.,Negative
+The new feature shows promise.,Positive
+Feeling ambivalent about it.,Neutral
+The service quality is top-notch.,Positive
+Highly frustrated with the situation.,Negative
+Don't have strong feelings either way.,Neutral
+Impressed by the level of detail.,Positive
+The service was a complete disappointment.,Negative
+Neutral stance on this matter.,Neutral
+The product functions as expected.,Positive
+Unhappy with the lack of communication.,Negative
+"It's a decent product, nothing exceptional.",Neutral
+Excited about the news!,Positive
+Annoyed by the constant interruptions.,Negative
+No intense emotions about it.,Neutral
+The customer support was quite helpful.,Positive
+This show is disappointing.,Negative
+I'm content with the results.,Positive
+The situation is quite frustrating.,Negative
+Neither impressed nor disappointed.,Neutral
+Thrilled with my purchase!,Positive
+Not pleased with the outcome.,Negative
+The new feature is intriguing.,Positive
+Feeling neutral towards it.,Neutral
+The service quality is outstanding.,Positive
+Extremely frustrated with the situation.,Negative
+No strong emotions attached.,Neutral
+The performance exceeded expectations.,Positive
+Utterly let down by the service.,Negative
+"Indifferent, neither good nor bad.",Neutral
+Delighted with the overall experience.,Positive
+Extremely upset about the outcome.,Negative
+Fairly content with the outcome.,Positive
+Not impressed by the service.,Negative
+Mixed feelings about the update.,Neutral
+The staff was helpful and attentive.,Positive
+This show is disappointing.,Negative
+Satisfied with the results.,Positive
+The experience has been terrible.,Negative
+Feeling indifferent about it.,Neutral
+Excited about the new release.,Positive
+Extremely dissatisfied with the service.,Negative
+Neutral standpoint on this matter.,Neutral
+Impressed by the craftsmanship.,Positive
+Frustrated with the lack of progress.,Negative
+No particularly strong opinions.,Neutral
+This experience has been wonderful.,Positive
+I'm never using this service again.,Negative
+Don't have any strong feelings either way.,Neutral
+The product exceeded my expectations.,Positive
+Highly disappointed with the customer support.,Negative
+Feeling neutral about the recent update.,Neutral
+"The food was exceptional, a real treat.",Positive
+Not satisfied with the overall service.,Negative
+Mixed emotions about the recent changes.,Neutral
+The staff was exceptionally helpful.,Positive
+I'm displeased with the outcome.,Negative
+This update has left me undecided.,Neutral
+The view from the rooftop is breathtaking.,Positive
+Feeling agitated due to the constant delays.,Negative
+Indifferent about the policy changes.,Neutral
+The presentation was captivating and informative.,Positive
+I have a neutral stance on this matter.,Neutral
+Not impressed with the new feature.,Negative
+Absolutely delighted with the outcome.,Positive
+The situation is beyond frustrating.,Negative
+No strong opinions about this.,Neutral
+Thrilled about the recent announcement!,Positive
+The constant interruptions are annoying.,Negative
+Feeling neither positive nor negative.,Neutral
+Impressed by the level of professionalism.,Positive
+The lack of communication is frustrating.,Negative
+"It's an average product, nothing special.",Neutral
+Ecstatic about the news and its potential.,Positive
+Annoyed by the continuous issues.,Negative
+No particular attachment to this topic.,Neutral
+The support team was incredibly supportive.,Positive
+This show didn't live up to my expectations.,Negative
+Content with the results achieved.,Positive
+Extremely upset by the outcome.,Negative
+Neither impressed nor disappointed.,Neutral
+Thrilled with my new acquisition!,Positive
+Really dissatisfied with the results.,Negative
+The new addition looks promising.,Positive
+Feeling neutral regarding this.,Neutral
+The service quality is remarkable.,Positive
+Frustrated with the ongoing situation.,Negative
+No strong feelings attached to it.,Neutral
+The performance surpassed my expectations.,Positive
+Utterly disappointed by the experience.,Negative
+"Indifferent, neither positive nor negative.",Neutral
+Delighted with the overall outcome.,Positive
+Extremely upset with the situation.,Negative
+Fairly content with the results.,Positive
+Unimpressed by the service.,Negative
+Neutral stance on the recent update.,Neutral
+The staff was helpful and attentive.,Positive
+This show is disappointing.,Negative
+Satisfied with the outcome.,Positive
+The experience has been terrible.,Negative
+Feeling indifferent about it.,Neutral
+Excited about the new release.,Positive
+Extremely dissatisfied with the service.,Negative
+Neutral standpoint on this matter.,Neutral
+Impressed by the craftsmanship.,Positive
+Frustrated with the lack of progress.,Negative
+No strong opinions one way or the other.,Neutral
+This event is worth attending.,Positive
+This situation is really bothering me.,Negative
+Neutral feelings about the issue.,Neutral
+The performance was remarkable.,Positive
+Highly displeased with the service.,Negative
+Neutral feelings about the topic.,Neutral
+I'm impressed with the effort.,Positive
+Extremely frustrated with the situation.,Negative
+No particular sentiment about this.,Neutral
+The support team was incredibly helpful.,Positive
+This show is far from entertaining.,Negative
+Satisfied with the overall results.,Positive
+The situation is infuriating.,Negative
+Neither thrilled nor disappointed.,Neutral
+Excited about my latest purchase!,Positive
+Extremely disappointed with the outcome.,Negative
+The new feature seems promising.,Positive
+Feeling neutral about it.,Neutral
+The service quality is outstanding.,Positive
+The presentation was lackluster.,Negative
+Completely thrilled with the outcome.,Positive
+The service needs a lot of improvement.,Negative
+Not sure how I feel about the changes.,Neutral
+This product is exceptional!,Positive
+Very unsatisfied with the customer support.,Negative
+Feeling ambivalent about the situation.,Neutral
+The movie was disappointing.,Negative
+The service was exceptional.,Positive
+Really frustrated with the ongoing issues.,Negative
+No strong opinions either way.,Neutral
+Impressed by the quality of the product.,Positive
+Not happy with the customer service.,Negative
+Mixed feelings about the recent update.,Neutral
+Feeling somewhat indifferent about this.,Neutral
+"The food was outstanding, a true delight.",Positive
+The service was subpar.,Negative
+Feeling undecided about the matter.,Neutral
+The staff was helpful and attentive.,Positive
+I'm displeased with the outcome.,Negative
+Neutral standpoint on the new feature.,Neutral
+The view from the rooftop is breathtaking.,Positive
+Feeling annoyed by the constant delays.,Negative
+No strong emotional attachment to the policy.,Neutral
+The presentation was captivating.,Positive
+I'm taking a neutral stance on this issue.,Neutral
+Unimpressed by the new addition.,Negative
+Absolutely thrilled with the result.,Positive
+The situation is incredibly frustrating.,Negative
+Neutral feelings about this topic.,Neutral
+Thrilled by the recent announcement!,Positive
+The ongoing interruptions are irritating.,Negative
+No particular attachment to this subject.,Neutral
+The support team was incredibly helpful.,Positive
+Disappointed by this show's performance.,Negative
+Content with the achieved outcome.,Positive
+The situation is quite disappointing.,Negative
+Neither overly impressed nor dissatisfied.,Neutral
+Thrilled with my recent purchase!,Positive
+Not pleased with the results.,Negative
+The new feature looks promising.,Positive
+Feeling neutral about this development.,Neutral
+The service quality is outstanding.,Positive
+Extremely frustrated with the ongoing issues.,Negative
+No strong sentiments attached to this.,Neutral
+The performance surpassed my expectations.,Positive
+Completely let down by the experience.,Negative
+Neutral stance on this matter.,Neutral
+Delighted with the final outcome.,Positive
+Extremely upset about the situation.,Negative
+Fairly satisfied with the results.,Positive
+Not impressed by the service.,Negative
+Feeling neutral about the recent update.,Neutral
+The staff was helpful and attentive.,Positive
+This show is underwhelming.,Negative
+Satisfied with the outcome.,Positive
+The experience has been terrible.,Negative
+Feeling indifferent about it.,Neutral
+Excited about the new release.,Positive
+Extremely dissatisfied with the service.,Negative
+Taking a neutral standpoint on this issue.,Neutral
+Impressed by the craftsmanship.,Positive
+Frustrated with the lack of progress.,Negative
+No strong emotions one way or the other.,Neutral
+Feeling content with the situation.,Positive
+The situation is infuriating.,Negative
+Neither thrilled nor disappointed.,Neutral
+Eagerly anticipating the upcoming changes.,Positive
+Highly displeased with the results.,Negative
+This addition is worth exploring.,Positive
+Feeling neutral towards it.,Neutral
+The service quality is exceptional.,Positive
+Utterly disappointed with the service.,Negative
+Neutral perspective on this.,Neutral
+Quite impressed with the effort.,Positive
+Extremely frustrated with the situation.,Negative
+No strong opinions about this matter.,Neutral
+The support team was incredibly helpful.,Positive
+This show falls short of expectations.,Negative
+Feeling satisfied with the results.,Positive
+The experience has been disappointing.,Negative
+Feeling indifferent towards this.,Neutral
+Excited about the recent release.,Positive
+Highly dissatisfied with the service.,Negative
+Taking a neutral stance on this subject.,Neutral
+Impressed by the dedication shown.,Positive
+Frustrated with the lack of communication.,Negative
+No strong feelings either way.,Neutral
+Feeling optimistic about the situation.,Positive
+Quite frustrated with the ongoing issues.,Negative
+"I enjoyed the concert, it was fantastic!",Positive
+This product is a disappointment.,Negative
+Have mixed feelings about this situation.,Neutral
+The movie left me feeling unsatisfied.,Negative
+The customer service was excellent!,Positive
+I'm frustrated with the ongoing issues.,Negative
+No strong emotions towards this.,Neutral
+The event was a memorable experience.,Positive
+Not happy with the results at all.,Negative
+Feeling neither here nor there about it.,Neutral
+The software needs serious improvement.,Negative
+The staff was friendly and helpful.,Positive
+This show exceeded my expectations.,Positive
+Not impressed by the product's quality.,Negative
+Have mixed feelings about this.,Neutral
+The user experience was top-notch.,Positive
+The situation is infuriating.,Negative
+I don't have any strong opinions about it.,Neutral
+The concert was electrifying!,Positive
+Completely unimpressed by the service.,Negative
+Feeling neutral towards this topic.,Neutral
+The quality of this book is exceptional.,Positive
+I'm really bothered by the situation.,Negative
