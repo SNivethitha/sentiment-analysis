@@ -1,5 +1,6 @@
-# sentiment-analysis
+# sentiment_analysis
 Using Machine Learning
+
 Sentiment analysis is a powerful machine learning tool that enables the automated identification of attitudes, opinions, and emotions expressed in text. 
 In this study, we explore the application of sentiment analysis to evaluate the learning experiences. 
 Specifically, we investigate whether sentiment analysis algorithms can effectively replace multiple human raters in research.
